@@ -9,4 +9,3 @@ Simulated Cisco VLAN labs
   Trunk Encapsulation
 
 
-[View repository →](https://github.com/rubentot/VLAN-Labs)
