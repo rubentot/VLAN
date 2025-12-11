@@ -8,4 +8,10 @@ Simulated Cisco VLAN labs
 - **002** – [VLAN Configuration](https://github.com/rubentot/002-single-vlan-trunking.git)  
   Trunk Encapsulation
 
+- **003** – [Inter-VLAN Configuration](https://github.com/rubentot/003-InterVLAN.git)
+  Inter VLAN, Native VLAN, Trunk, .1Q tagging, Subinterfaces
+  
+
+  
+
 
