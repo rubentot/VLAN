@@ -9,6 +9,9 @@ Simulated Cisco VLAN labs
  
 
 - **003** – [Inter-VLAN Configuration](https://github.com/rubentot/003-InterVLAN.git)
+
+
+- **004** – [Router on a stick](https://github.com/rubentot/004-Router-on-a-Stick)
   
   
 
