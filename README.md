@@ -12,6 +12,7 @@ Simulated Cisco VLAN labs
 
 
 - **004** – [Router on a stick](https://github.com/rubentot/004-Router-on-a-Stick)
+ - **004.1** – [Router on a stick-Troubleshooting](https://github.com/rubentot/004-Router-on-a-Stick-Troubleshooting)
   
   
 
